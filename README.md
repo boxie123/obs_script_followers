@@ -7,11 +7,21 @@
 
    *请自行百度python安装教程*
 
-2. 打开obs，工具栏点击“脚本”![image-20220602225135081](README.assets/image-20220602225135081.png)
+2. 打开cmd，pip安装requests库
 
-3. python设置中选择python安装路径
+   ```cmd
+   pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
+   ```
 
-4. 下载本仓库中的[followers_get.py](.\followers_get.py)文件
+   
+
+3. 打开obs，工具栏点击“脚本”
+
+   ![image-20220602225135081](README.assets/image-20220602225135081.png)
+
+3. “python设置”中选择第一步中python的安装路径
+
+4. 下载本仓库中的 [followers_get.py](followers_get.py) 文件
 
 5. 点击左下角添加脚本，选择上述下载文件![image-20220602225249974](README.assets/image-20220602225249974.png)
 
